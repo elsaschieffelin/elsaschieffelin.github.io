@@ -1,0 +1,11 @@
+body {
+    background-image: url("images/sunflower3.jpg");
+    /* 2: Photo by fotografierende from Pexels */
+    /* 3: Photo by Kristina Paukshtite from Pexels */
+    height: 100%;
+    background-size: cover;
+}
+.block {
+    background: #cccc;
+    
+}
